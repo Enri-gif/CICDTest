@@ -9,13 +9,7 @@ on:
       - main
   workflow_dispatch:
 
-- name: Install dependencies
-  run: dotnet restore
-- name: Execute unit tests
-  run: dotnet test
-
 jobs:
-
   build:
     runs-on: windows-latest
 
@@ -27,6 +21,10 @@ jobs:
         with:
           dotnet-version: '7.x'
           include-prerelease: true
+          - name: Install dependencies
+              run: dotnet restore
+          - name: Execute unit tests
+              run: dotnet test
 
       - name: Build with dotnet
         run: dotnet build --configuration Release
