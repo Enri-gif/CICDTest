@@ -10,12 +10,13 @@ on:
   workflow_dispatch:
 
 jobs:
-- name: Install dependencies
-    run: dotnet restore
-- name: Execute unit tests
-    run: dotnet test
 
   build:
+    - name: Install dependencies
+      run: dotnet restore
+    - name: Execute unit tests
+      run: dotnet test
+
     runs-on: windows-latest
 
     steps:
