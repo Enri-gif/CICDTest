@@ -10,7 +10,6 @@ public class FirstName
     }
     private void validateFirstName(string FirstName)
     {
-        throw new Exception("Test exception");
         if(FirstName != null && FirstName.Length >= 2 && FirstName.Length <= 20)
         {
             string pattern = @"^[a-zA-Z]+$";
