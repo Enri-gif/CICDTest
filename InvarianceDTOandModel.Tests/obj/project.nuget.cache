@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QMikGfo6dYAolJR8iarmcYk0PLlshM5vHCaL1B51LUIS2pX1dRT2xThuQGmmo8wjj8DKLlBIGd/xvGjxzvgPOg==",
+  "dgSpecHash": "J04Ro7s6RCy0FawaH/+iUtaZkNID2llL51mL09mPYvVsUyaTXrR8UcZ1IbtIIdfxXLoq2UNJWsV0d/k8awRv1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pc2\\Documents\\UCL\\IT-Sikkerhed\\2. semester\\SoftSik\\UnitTestInvariance\\InvarianceDTOandModel.Tests\\InvarianceDTOandModel.Tests.csproj",
+  "projectFilePath": "C:\\Users\\pc2\\Documents\\UCL\\IT-Sikkerhed\\2. semester\\SoftSik\\CICDTest\\InvarianceDTOandModel.Tests\\InvarianceDTOandModel.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc2\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\pc2\\.nuget\\packages\\microsoft.codecoverage\\17.7.1\\microsoft.codecoverage.17.7.1.nupkg.sha512",

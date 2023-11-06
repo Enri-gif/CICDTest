@@ -5536,11 +5536,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc2\\Documents\\UCL\\IT-Sikkerhed\\2. semester\\SoftSik\\UnitTestInvariance\\InvarianceDTOandModel.Tests\\InvarianceDTOandModel.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\pc2\\Documents\\UCL\\IT-Sikkerhed\\2. semester\\SoftSik\\CICDTest\\InvarianceDTOandModel.Tests\\InvarianceDTOandModel.Tests.csproj",
       "projectName": "InvarianceDTOandModel.Tests",
-      "projectPath": "C:\\Users\\pc2\\Documents\\UCL\\IT-Sikkerhed\\2. semester\\SoftSik\\UnitTestInvariance\\InvarianceDTOandModel.Tests\\InvarianceDTOandModel.Tests.csproj",
+      "projectPath": "C:\\Users\\pc2\\Documents\\UCL\\IT-Sikkerhed\\2. semester\\SoftSik\\CICDTest\\InvarianceDTOandModel.Tests\\InvarianceDTOandModel.Tests.csproj",
       "packagesPath": "C:\\Users\\pc2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc2\\Documents\\UCL\\IT-Sikkerhed\\2. semester\\SoftSik\\UnitTestInvariance\\InvarianceDTOandModel.Tests\\obj\\",
+      "outputPath": "C:\\Users\\pc2\\Documents\\UCL\\IT-Sikkerhed\\2. semester\\SoftSik\\CICDTest\\InvarianceDTOandModel.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5561,8 +5561,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\pc2\\Documents\\UCL\\IT-Sikkerhed\\2. semester\\SoftSik\\UnitTestInvariance\\InvarianceDTOandModel\\ValidateTheNameModelBinding.csproj": {
-              "projectPath": "C:\\Users\\pc2\\Documents\\UCL\\IT-Sikkerhed\\2. semester\\SoftSik\\UnitTestInvariance\\InvarianceDTOandModel\\ValidateTheNameModelBinding.csproj"
+            "C:\\Users\\pc2\\Documents\\UCL\\IT-Sikkerhed\\2. semester\\SoftSik\\CICDTest\\InvarianceDTOandModel\\ValidateTheNameModelBinding.csproj": {
+              "projectPath": "C:\\Users\\pc2\\Documents\\UCL\\IT-Sikkerhed\\2. semester\\SoftSik\\CICDTest\\InvarianceDTOandModel\\ValidateTheNameModelBinding.csproj"
             }
           }
         }
@@ -5614,7 +5614,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
